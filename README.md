@@ -1,8 +1,8 @@
-# 2b-mini-team-work-jiayou
-2b-mini-team-work-jiayou created by GitHub Classroom
+# 2b-mini-team-work-acodean
+2b-mini-team-work-acodean created by GitHub Classroom
 
 Anggota Team : 
-1. Erninda Ristiani
-2. Rina Puspita Sari
+1. Agis Ildha
+2. Nendhe Fida C
 
 Kelas : MI-2B
